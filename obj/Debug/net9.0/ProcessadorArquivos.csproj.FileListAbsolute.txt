@@ -1,0 +1,14 @@
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/bin/Debug/net9.0/ProcessadorArquivos
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/bin/Debug/net9.0/ProcessadorArquivos.deps.json
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/bin/Debug/net9.0/ProcessadorArquivos.runtimeconfig.json
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/bin/Debug/net9.0/ProcessadorArquivos.dll
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/bin/Debug/net9.0/ProcessadorArquivos.pdb
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.AssemblyInfoInputs.cache
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.AssemblyInfo.cs
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.csproj.CoreCompileInputs.cache
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.dll
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/refint/ProcessadorArquivos.dll
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.pdb
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ProcessadorArquivos.genruntimeconfig.cache
+/Users/leo_ruiz/Documents/repos/cp_cs/ProcessadorArquivos/obj/Debug/net9.0/ref/ProcessadorArquivos.dll
