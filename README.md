@@ -75,7 +75,3 @@ Este projeto é uma aplicação de console desenvolvida em C# com .NET 9, criada
 ## Integrantes do Grupo
 
 Leonardo de Oliveira Ruiz - RM98901
-
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Adicionar mais nomes conforme necessário]
