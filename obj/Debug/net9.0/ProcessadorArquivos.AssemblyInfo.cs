@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessadorArquivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2facf50f75d08c45038e006f6573af41f15e7af5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ddd3d52af3d8431e206fe6530e4808ee55b882")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessadorArquivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessadorArquivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
